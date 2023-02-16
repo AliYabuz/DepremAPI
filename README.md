@@ -1,4 +1,4 @@
-Deprem Ölçer Sistemi
+<header>Deprem Ölçer Sistemi</header>
 Bu proje, Swift ve PHP programlama dilleri ile JSON veri formatını kullanarak bir deprem ölçer sistemi oluşturmayı amaçlamaktadır. Bu sistem, çeşitli deprem sensörlerinden alınan verileri toplayacak ve kullanıcıların deprem bilgilerini takip etmelerine olanak tanıyacaktır.
 Nasıl Çalışır?
 Bu sistem, sensörler tarafından sağlanan verileri almak ve işlemek için bir web sunucusu kullanacaktır. Sunucu, verileri işlemek ve saklamak için bir veritabanı kullanacak ve kullanıcıların deprem bilgilerini görüntülemelerine olanak tanıyacak bir web arayüzü sağlayacaktır.
